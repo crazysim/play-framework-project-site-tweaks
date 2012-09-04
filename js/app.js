@@ -1,4 +1,4 @@
 /* behavior */
-(function(jq){
-  // do it
-})(jQuery);
+// (function(jq){
+  // // do it
+// })(jQuery);
