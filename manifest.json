@@ -6,6 +6,7 @@
   "content_scripts": [
   {  
       "matches": ["http://www.playframework.org/*"],
+      "exclude_matches": ["http://www.playframework.org/documentation/api/*"],
       "css": ["css/app.css"]
   }
   ]
