@@ -2,3 +2,7 @@
 header {
     padding: 0 !important;
 }
+
+body {
+	padding: 75px 0 0;
+}
