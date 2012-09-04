@@ -2,22 +2,5 @@
   "name": "Play! Framework Official Site Tweaks",
   "version": "0.0.1",
   "description": "",
-  "background_page": "background.html",
-  "browser_action": {
-    "popup": "popup.html"
-  },
-  "permissions": [
-    // "bookmarks",
-    // "chrome://favicon/",
-    // "contextMenus",
-    // "cookies",
-    // "experimental",
-    // "geolocation",
-    // "history",
-    // "idle",
-    "notifications",
-    "tabs",
-    // "unlimitedStorage",
-    "https://ajax.googleapis.com/"
-   ]
+  "manifest_version": 2
 }
