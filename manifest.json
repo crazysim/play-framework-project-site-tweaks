@@ -6,10 +6,8 @@
   "content_scripts": [
   {  
       "matches": ["http://www.playframework.org/*"],
-      "js": ["js/app.js"],
+      // "js": ["js/app.js"],
       "css": ["css/app.css"]
   }
-  ],
-
-      "permissions": ["tabs", "http://*/*"]
+  ]
 }

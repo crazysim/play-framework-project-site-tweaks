@@ -3,4 +3,3 @@
 // // do it
 // })(jQuery);
 //
-alert("Hi");
