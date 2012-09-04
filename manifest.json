@@ -5,13 +5,13 @@
   "manifest_version": 2,
   "content_scripts": [
   {  
-      "matches": ["http://www.playframework.org/documentation/api/*"],
-      "css": ["css/api.css"]
-  },
-  {  
       "matches": ["http://www.playframework.org/*"],
       "exclude_globs": ["http://www.playframework.org/documentation/api/*"],
       "css": ["css/app.css"]
+  },
+  {  
+      "matches": ["http://www.playframework.org/documentation/api/*"],
+      "css": ["css/api.css"]
   }  
   ]
 }
