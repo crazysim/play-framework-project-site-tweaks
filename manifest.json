@@ -2,5 +2,11 @@
   "name": "Play! Framework Official Site Tweaks",
   "version": "0.0.1",
   "description": "",
-  "manifest_version": 2
+  "manifest_version": 2,
+  "content_scripts": [
+  {  
+      "matches": ["http://www.playframework.org/*"],
+      "css": ["css/app.css"]
+  }
+  ]
 }
