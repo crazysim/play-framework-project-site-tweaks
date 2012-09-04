@@ -1,4 +1,6 @@
 /* behavior */
 // (function(jq){
-  // // do it
+// // do it
 // })(jQuery);
+//
+alert("Hi");
