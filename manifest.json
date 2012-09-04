@@ -1,7 +1,7 @@
 {
   "name": "Play! Framework Project Site Tweaks",
   "version": "0.0.1",
-  "description": "This addon contains styling tweaks for the Play! Framework project site. For example it changes the padding on the super large fixed header to 0. Actually that's all it does for now.",
+  "description": "This addon contains one styling tweak for the Play! Framework project site. ",
   "manifest_version": 2,
   "content_scripts": [
   {  
